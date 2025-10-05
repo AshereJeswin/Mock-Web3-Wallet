@@ -47,3 +47,5 @@ A fully functional mock Web3 wallet built with Python and Streamlit that demonst
 ```bash
 git clone <repository-url>
 cd Mock-Web3-Wallet
+
+### Prerequisites
