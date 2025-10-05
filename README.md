@@ -47,5 +47,44 @@ A fully functional mock Web3 wallet built with Python and Streamlit that demonst
 ```bash
 git clone <repository-url>
 cd Mock-Web3-Wallet
+ ```
 
-### Prerequisites
+
+### Work Flow
+# 🛡️ Mock Web3 Wallet
+
+> A fully functional mock Web3 wallet built with Python and Streamlit that demonstrates core wallet functionality including mnemonic generation, transaction signing, USD/ETH conversions, and email notifications.
+
+---
+
+## 🖼️ Screenshots
+
+### 1. 🏠 Homepage
+![Homepage](./images/homepage.png)  
+Click **"Generate New Wallet"** to create a secure BIP39-compliant wallet.
+
+---
+
+### 2. 💼 Wallet Dashboard
+![Wallet Dashboard](./images/wallet.png)  
+View your mock ETH balance, USD value, and send transactions.
+
+---
+
+### 3. 📤 Prepare Transaction
+![Prepare Transaction](./images/prepare.png)  
+Enter recipient address and amount in ETH or USD.
+
+---
+
+### 4. 🔐 Transaction Approval
+![Transaction Approval](./images/approve.png)  
+Review and approve the transaction within 30 seconds.
+
+---
+
+### 5. 📧 Email Confirmation
+![Email Confirmation](./images/email.png)  
+Receive instant email notification upon successful transaction.
+
+---
